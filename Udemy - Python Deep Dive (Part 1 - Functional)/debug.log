@@ -1,3 +1,5 @@
 [0715/142627.830:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [0715/142627.831:ERROR:exception_snapshot_win.cc(98)] thread ID 16008 not found in process
 [0715/142627.831:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1014/133904.156:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/154218.768:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
